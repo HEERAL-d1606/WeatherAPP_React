@@ -24,3 +24,5 @@ The Weather App is a React-based web application that provides real-time weather
 - **OpenWeatherMap API:** Provides weather data for cities. Accessed via API requests to get current weather conditions.
 - **CSS:** Used for styling and layout of the application, including responsive design and component-specific styles.
 
+Please look at the master branch for full code.
+
