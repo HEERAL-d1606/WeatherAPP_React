@@ -11,14 +11,7 @@ The Weather App is a React-based web application that provides real-time weather
 - **Responsive Design:** The app is designed to be responsive and look great on both desktop and mobile devices.
 - **Background Image:** A beautiful background image sets the scene for the weather information.
 
-## Features
 
-- **Real-Time Weather Data:** Fetch current weather information using the OpenWeatherMap API.
-- **Search Functionality:** Users can search for weather updates by entering the name of a city.
-- **Responsive Design:** The app is designed to be responsive and look great on both desktop and mobile devices.
-- **Background Image:** A beautiful background image sets the scene for the weather information.
-- **React Hooks:** Utilizes React hooks (`useState`, `useEffect`) for state management and handling side effects.
-- **Component-Based Architecture:** Organizes the application into reusable components with props for dynamic content.
 
 ## Technology Stack
 
